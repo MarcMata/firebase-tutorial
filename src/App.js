@@ -5,7 +5,9 @@ import Auth from './components/auth';
 
 function App() {
   return (
-    A
+      <div className="App">
+            <Auth/>
+      </div>
   );
 }
 
