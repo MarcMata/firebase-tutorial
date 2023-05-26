@@ -23,4 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea/*
-firebase-config
+firebase-config.js
+keys.js
